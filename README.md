@@ -1,50 +1,49 @@
 # CartoGenT
 
-[English](README_EN.md) | 简体中文
+English | [简体中文](README_ZH.md)
 
 [![Demo](https://img.shields.io/badge/🤗-Demo-yellow)](https://huggingface.co/spaces/whtower/CartoGenT)
 [![Data](https://img.shields.io/badge/📊-Dataset-blue)](https://figshare.com/s/5bdeaee85be6267bd178)
 
-**CartoGenT: 一个用于矢量原生制图建筑物合并的生成式多尺度Transformer框架**
+**CartoGenT: A Generative Multi-scale Transformer Framework for Vector-native Cartographic Building Amalgamation**
 
-本仓库是 CartoGenT 论文的官方资源库,提供数据集和在线演示。
+This repository is the official resource repository for the CartoGenT paper, providing datasets and online demos.
 
 <p align="center">
   <img src="figures/Fig0.png" alt="CartoGenT Overview" width="800"/>
 </p>
 
-## 📖 简介
+## 📖 Introduction
 
-建筑物合并是制图综合中的关键操作,用于生成清晰连贯的多尺度地图。CartoGenT 是一个端到端的矢量原生生成式 Transformer 框架,专门用于建筑物合并任务。
+Building amalgamation is a key operation in cartographic generalization for producing clear and coherent multi-scale maps. CartoGenT is an end-to-end vector-native generative Transformer framework specifically designed for building amalgamation tasks.
 
-### 主要特点
+### Key Features
 
-- 🎯 **矢量原生处理**: 直接在矢量域操作,避免栅格化带来的精度损失
-- 🔄 **多尺度架构**: 采用尺度自适应模块建模跨尺度上下文依赖
-- 🤖 **生成式建模**: 联合预测顶点和连接性,实现拓扑有效的几何重建
-- 📐 **端到端训练**: 从输入建筑群到输出合并结果的完整端到端学习
+- 🎯 **Vector-native Processing**: Operates directly in the vector domain, avoiding precision loss from rasterization
+- 🔄 **Multi-scale Architecture**: Uses scale-adaptive module to model cross-scale contextual dependencies
+- 🤖 **Generative Modeling**: Jointly predicts vertices and connectivity for topologically valid geometric reconstruction
+- 📐 **End-to-end Training**: Complete end-to-end learning from input building groups to output amalgamated results
 
-## 🚀 在线演示
+## 🚀 Online Demo
 
-体验 CartoGenT 的在线演示:
+Experience CartoGenT online:
 
 👉 [https://huggingface.co/spaces/whtower/CartoGenT](https://huggingface.co/spaces/whtower/CartoGenT)
 
-在线演示允许您:
-- 上传自定义建筑物数据
-- 实时查看合并结果
-- 调整模型参数
-- 下载处理结果
+The online demo allows you to:
+- Upload custom building data
+- View amalgamation results in real-time
+- Adjust model parameters
+- Download processed results
 
-## 📊 数据集
+## 📊 Dataset
 
-本项目使用的数据集已公开发布在 Figshare 上:
+The dataset used in this project is publicly available on Figshare:
 
 👉 [https://figshare.com/s/5bdeaee85be6267bd178](https://figshare.com/s/5bdeaee85be6267bd178)
 
-数据集基于英国 Ordnance Survey 和 OpenStreetMap 的矢量建筑数据构建,包含训练集、验证集和测试集。
+The dataset is constructed based on OpenStreetMap and Ordnance Survey vector building data from Great Britain, including training, validation, and test sets.
 
-## 📄 论文
+## 📄 Paper
 
-论文目前处于投稿阶段,更多详细信息将在论文发表后公开。
-
+The paper is currently under review. More details will be released after publication.
