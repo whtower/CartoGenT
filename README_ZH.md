@@ -35,10 +35,8 @@
 👉 [https://huggingface.co/spaces/whtower/CartoGenT](https://huggingface.co/spaces/whtower/CartoGenT)
 
 在线演示允许您:
-- 上传自定义建筑物数据
+- 自定义建筑物数据
 - 实时查看合并结果
-- 调整模型参数
-- 下载处理结果
 
 ## 📊 数据集
 

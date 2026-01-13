@@ -35,10 +35,8 @@ Experience CartoGenT online:
 👉 [https://huggingface.co/spaces/whtower/CartoGenT](https://huggingface.co/spaces/whtower/CartoGenT)
 
 The online demo allows you to:
-- Upload custom building data
+- Custom building data
 - View amalgamation results in real-time
-- Adjust model parameters
-- Download processed results
 
 ## 📊 Dataset
 
