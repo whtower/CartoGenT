@@ -1,9 +1,13 @@
 # CartoGenT
 
-[English](README.md) | 简体中文
+<p align="center">
+  <a href="README.md">English</a> | 简体中文
+</p>
 
-[![Demo](https://img.shields.io/badge/🤗-Demo-yellow)](https://huggingface.co/spaces/whtower/CartoGenT)
-[![Data](https://img.shields.io/badge/📊-Dataset-blue)](https://figshare.com/s/5bdeaee85be6267bd178)
+<p align="center">
+  <a href="https://huggingface.co/spaces/whtower/CartoGenT"><img src="https://img.shields.io/badge/🤗-Demo-yellow" alt="Demo"></a>
+  <a href="https://figshare.com/s/5bdeaee85be6267bd178"><img src="https://img.shields.io/badge/📊-Dataset-blue" alt="Dataset"></a>
+</p>
 
 **CartoGenT: 一个用于矢量原生制图建筑物合并的生成式多尺度Transformer框架**
 

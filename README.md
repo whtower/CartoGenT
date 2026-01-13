@@ -1,9 +1,13 @@
 # CartoGenT
 
-English | [简体中文](README_ZH.md)
+<p align="center">
+  English | <a href="README_ZH.md">简体中文</a>
+</p>
 
-[![Demo](https://img.shields.io/badge/🤗-Demo-yellow)](https://huggingface.co/spaces/whtower/CartoGenT)
-[![Data](https://img.shields.io/badge/📊-Dataset-blue)](https://figshare.com/s/5bdeaee85be6267bd178)
+<p align="center">
+  <a href="https://huggingface.co/spaces/whtower/CartoGenT"><img src="https://img.shields.io/badge/🤗-Demo-yellow" alt="Demo"></a>
+  <a href="https://figshare.com/s/5bdeaee85be6267bd178"><img src="https://img.shields.io/badge/📊-Dataset-blue" alt="Dataset"></a>
+</p>
 
 **CartoGenT: A Generative Multi-scale Transformer Framework for Vector-native Cartographic Building Amalgamation**
 
