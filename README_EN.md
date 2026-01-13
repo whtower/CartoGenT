@@ -10,7 +10,7 @@ English | [简体中文](README.md)
 This repository is the official resource repository for the CartoGenT paper, providing datasets and online demos.
 
 <p align="center">
-  <img src="figures/Fig0.pdf" alt="CartoGenT Overview" width="800"/>
+  <img src="figures/Fig0.png" alt="CartoGenT Overview" width="800"/>
 </p>
 
 ## 📖 Introduction

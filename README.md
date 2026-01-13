@@ -10,7 +10,7 @@
 本仓库是 CartoGenT 论文的官方资源库,提供数据集和在线演示。
 
 <p align="center">
-  <img src="figures/Fig0.pdf" alt="CartoGenT Overview" width="800"/>
+  <img src="figures/Fig0.png" alt="CartoGenT Overview" width="800"/>
 </p>
 
 ## 📖 简介
